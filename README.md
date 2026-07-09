@@ -3,6 +3,11 @@
 This repository implements a Deep Q-Network (DQN) reinforcement learning agent to learn and play the classic Flappy Bird game. The agent is built using **PyTorch**, **Gymnasium**, and the **flappy-bird-gymnasium** environment.
 
 ---
+ ## Gameplay GIF
+ compressed-1783586674874
+
+
+---
 
 ## 📂 Project Structure
 
