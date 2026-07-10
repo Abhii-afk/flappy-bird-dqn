@@ -4,7 +4,8 @@ This repository implements a Deep Q-Network (DQN) reinforcement learning agent t
 
 ---
  ## Gameplay GIF
- compressed-1783586674874
+ <img width="1280" height="720" alt="compressed-1783586674874 (2) (online-video-cutter (1)" src="https://github.com/user-attachments/assets/66495fdc-e35f-4432-b0e4-e3dea782a9b5" />
+
 
 
 ---
